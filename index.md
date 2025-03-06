@@ -1,123 +1,80 @@
 ---
 layout: default
+title: Raghavendra Challapali - Principal Software Engineer
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Raghavendra Challapali
+## Principal Software Engineer
 
-[Link to another page](./another-page.html).
+**Contact Information:**  
+Phone: +91-8892847134  
+Email: challapali@gmail.com  
+GitHub: [https://github.com/wagin](https://github.com/wagin)  
+LinkedIn: [Raghavendra Challapali](https://www.linkedin.com/in/raghavendra-challapali)
 
-There should be whitespace between paragraphs.
+## Education
+**Indian Institute of Technology, Madras**  
+CSE, B.Tech & M.Tech (Dual Degree), 2013
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Objective
+Principal Software Engineer interested in solving day-to-day Business problems with 11+ years' experience in Software Architecture, Design, SDLC, Backend Development and 4+ years in management for building large scale systems. With in-depth knowledge and extensive hands-on experience in Python, Golang and NodeJS based web frameworks, have developed numerous microservices systems.
 
-# Header 1
+## Skills
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Languages
+Python, Golang, NodeJS, Bash, Perl, C++
 
-## Header 2
+### SQL/NoSQL Databases
+PostgreSQL, Redis, Cassandra, Prometheus, InfluxDB, Clickhouse
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Web/Backend Frameworks
+Django, Celery, Tornado, RabbitMQ, Nginx, Gunicorn, Flask, HashiCorp Vault, Tastypie, Django Rest Framework, Jinja2, OpenSSL
 
-### Header 3
+### Development Tools/Environments
+Kubernetes, Docker, AWS+ Boto3, GIT, Ansible, Vagrant, Terraform, OpenTofu, VMWare, VirtualBox, Kibana, HashiCorp Consul, Fabric, SendGrid API
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Work Experience
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Principal Software Engineer
+**Rafay Systems - Bangalore, KA**  
+*December 2021 - Present*
 
-#### Header 4
+Working as Principal engineer for Data Services Platform at Rafay, responsible for all the metrics dashboards on the product.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- Currently building an Event based Dashboard backed by OLAP database Clickhouse for monitoring Environment Actions
+- Built a Finops product, Cost Management for Kubernetes resources deployed in AKS, EKS, Bare Metal, and Virtual Machines
+- Scaling the metrics platform by evaluating TSDBs (InfluxDB, OpenTSDB, Prometheus) and implementing tenant based sharding
+- Contribution to open-source projects like OpenCost, influxdb-relay, & paralus for improvements or fix issues
+- Hiring and managing a sleek efficient team of 5 engineers which includes Backend, UI, QA and Operations engineers to design, develop and scale the metrics and Finops platform to meet Customers' expectations
 
-##### Header 5
+### Technical Advisor
+**Archonet - Bangalore, KA**  
+*August 2021 – April 2023*
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Archonet is a new gen Digital Platform for Architects and Interior Designers. As a Technical Advisor, set up their technology infrastructure:
 
-###### Header 6
+- Creating Docker based Infrastructure (EC2 Instances, DNS, Load Balancers, VPCs, CloudFront, etc) on AWS
+- Setting up all required development, CICD, collaboration and monitoring tools like GitHub, GitHub Actions, Slack, Google Workspace, Google Analytics, Database Admin tools, Webhook Servers, etc
+- Hiring and managing UI/UX freelancers to design and develop Archonet's Beta launch product
+- Training the founders on FlutterFlow and Supabase to help them create the App with No Code Platform
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### Senior Lead Software Engineer
+**Akamai Technologies India Pvt. Ltd. - Bangalore, KA**  
+*July 2016 – November 2021*
 
-### There's a horizontal rule below this.
+Worked as Lead Developer for Zero Trust at Akamai, involved in design, development and scaling of a multi-tenant system to maintain tenant-based configuration and tenant's user validation, authorization and authentication.
 
-* * *
+- **Directory Sync System:** Initialized with product, scale and security requirements; designed an architecture for Integrating Enterprise Users via AD, LDAP and SCIM into Akamai's Enterprise Products. Successfully led the product into production by defining SDLC and coding standards; on-boarding SDEs and SDETs with effective resource planning; and handling integrations across teams
+- **Architecture Scaling and HA:** Revisited all the state-based components integral to Zero Trust architecture to evaluate its capacity and redesigned it to handle a scale of 100s of tenants with millions of users each
+- **Upgrade Portal:** Designed and architected a product for upgrading a network of servers playing various roles. The Upgrade Portal was a POC for handling system upgrades at a scale of 100s of instances seamlessly with click of a button
+- Developed various features integral to Zero Trust for customer acquisitions – Integration of Cisco Duo for MFA, Enabling Active Directory password to change remotely, Categorization of Applications, Customized multi-language support for user portal
+- Soha Systems: Joined as a Senior Backend Engineer and had a successful exit via acquisition by Akamai
 
-### Here is an unordered list:
+### Software Engineer
+**Compile India Pvt. Ltd. - Bangalore, KA**  
+*February 2013 – June 2016*
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+As a part of core engineering team at Compile was involved in developing intelligent sales product (Compile Sales) and a marketing insights product (Compile IS).
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- Designed, developed and deployed a full-scale product for generating marketing insights using job postings and news articles
+- Designed and developed an NLP system for crawling, extracting text, classifying and processing large scale of documents (PDFs) for identifying buying intent of technology products like Storage, Security, Networking and CRM products
