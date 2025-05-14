@@ -47,6 +47,16 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
 - Contribution to open-source projects like OpenCost, influxdb-relay, & paralus for improvements or fix issues
 - Hiring and managing a sleek efficient team of 5 engineers which includes Backend, UI, QA and Operations engineers to design, develop and scale the metrics and Finops platform to meet Customers' expectations
 
+#### Portfolio
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="width: 200px;">
+    <a href="https://rafay.co/cloud-cost-optimization" target="_blank">
+      <img src="/assets/images/cost-management.png" alt="Cloud Cost Management and Optimization" style="width: 100%;">
+      <p>Cloud Cost Management and Optimization</p>
+    </a>
+  </div>
+</div>
+
 ### Technical Advisor
 **Archonet - Bangalore, KA**  
 *August 2021 – April 2023*
