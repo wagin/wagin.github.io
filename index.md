@@ -51,7 +51,7 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="width: 200px;">
     <a href="https://rafay.co/cloud-cost-optimization" target="_blank">
-      <img src="/assets/images/cost-management.png" alt="Cloud Cost Management and Optimization" style="width: 100%;">
+      <img src="/assets/images/cost-management.jpg" alt="Cloud Cost Management and Optimization" style="width: 100%;">
       <p>Cloud Cost Management and Optimization</p>
     </a>
   </div>
