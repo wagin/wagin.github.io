@@ -50,7 +50,17 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
 #### Portfolio
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="width: 400px;">
-    <a href="https://rafay.co/cloud-cost-optimization" target="_blank">
+    <a href="https://rafay.co/cloud-cost-optimization" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/images/cost-management.jpg" alt="Cloud Cost Management and Optimization" style="width: 100%; height: auto;">
+      <p>Cloud Cost Management and Optimization</p>
+    </a>
+  </div>
+  <div style="width: 400px;">
+    <a href="https://rafay.co/cloud-cost-optimization" target="_blank" rel="noopener noreferrer">
+      <div style="display: flex; gap: 5px; overflow-x: auto;">
+        <img src="/assets/images/gpu-paas.jpg" alt="FinOps Screenshot 1" style="width: 150px;">
+        <img src="/assets/images/paas-billing.jpg" alt="FinOps Screenshot 2" style="width: 150px;">
+      </div>
       <img src="/assets/images/cost-management.jpg" alt="Cloud Cost Management and Optimization" style="width: 100%; height: auto;">
       <p>Cloud Cost Management and Optimization</p>
     </a>
