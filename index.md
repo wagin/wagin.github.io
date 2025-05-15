@@ -55,9 +55,9 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
       <p>Cloud Cost Management and Optimization</p>
     </a>
   </div>
-  <div style="width: 300px; position: relative;">
+  <div style="width: 1000px; position: relative;">
     <p style="text-align: center;">GPU PaaS<sup>TM</sup> Billing</p>
-    <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 200px;">
+    <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 100%;">
       <div class="slides" style="display: flex; transition: transform 0.5s ease;">
         <img src="/assets/images/gpu-paas.jpg" alt="GPU PaaS<sup>TM</sup>" style="width: 100%; flex-shrink: 0;">
         <img src="/assets/images/paas-billing.jpg" alt="PaaS Billing and Chargeback" style="width: 100%; flex-shrink: 0;">
