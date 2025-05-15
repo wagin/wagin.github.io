@@ -48,14 +48,18 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
 - Hiring and managing a sleek efficient team of 5 engineers which includes Backend, UI, QA and Operations engineers to design, develop and scale the metrics and Finops platform to meet Customers' expectations
 
 #### Portfolio
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="width: 800px;">
-    <a href="https://rafay.co/cloud-cost-optimization" target="_blank" rel="noopener noreferrer">
-      <img src="/assets/images/cost-management.jpg" alt="Cloud Cost Management and Optimization" style="width: 100%; height: auto;">
-      <p>Cloud Cost Management and Optimization</p>
-    </a>
+<div style="display: flex; overflow-x: auto; gap: 16px; padding-bottom: 10px;">
+  <div style="min-width: 280px; flex-shrink: 0;">
+    <a href="https://rafay.co/cloud-cost-optimization" target="_blank" rel="noopener noreferrer"><p>Cloud Cost Management and Optimization</p></a>
+    <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 100%;">
+      <div class="slides" style="display: flex; transition: transform 0.5s ease;">
+        <img src="/assets/images/cost-management.jpg" alt="Cloud Cost Management and Optimization" style="width: 100%; height: auto;">
+      </div>
+      <button onclick="prevSlide(this)" style="position: absolute; left: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❮</button>
+      <button onclick="nextSlide(this)" style="position: absolute; right: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❯</button>
+    </div>
   </div>
-  <div style="width: 1000px; position: relative;">
+  <div style="min-width: 280px; flex-shrink: 0;">
     <a href="https://rafay.co/gpu-paas/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; margin-top: 5px;"><p style="text-align: center;">GPU PaaS<sup>TM</sup> Billing</p></a>
     <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 100%;">
       <div class="slides" style="display: flex; transition: transform 0.5s ease;">
