@@ -49,7 +49,7 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
 
 #### Portfolio
 <div style="display: flex; overflow-x: auto; gap: 16px; padding-bottom: 10px;">
-  <div style="min-width: 280px; flex-shrink: 0;">
+  <div style="min-width: 280px; width: 800px; flex-shrink: 0;">
     <a href="https://rafay.co/cloud-cost-optimization" target="_blank" rel="noopener noreferrer"><p>Cloud Cost Management and Optimization</p></a>
     <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 100%;">
       <div class="slides" style="display: flex; transition: transform 0.5s ease;">
@@ -59,7 +59,7 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
       <button onclick="nextSlide(this)" style="position: absolute; right: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❯</button>
     </div>
   </div>
-  <div style="min-width: 280px; flex-shrink: 0;">
+  <div style="min-width: 280px; width: 800px; flex-shrink: 0;">
     <a href="https://rafay.co/gpu-paas/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; margin-top: 5px;"><p style="text-align: center;">GPU PaaS<sup>TM</sup> Billing</p></a>
     <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 100%;">
       <div class="slides" style="display: flex; transition: transform 0.5s ease;">
