@@ -55,16 +55,40 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
       <p>Cloud Cost Management and Optimization</p>
     </a>
   </div>
-  <div style="width: 800px;">
-    <a href="https://rafay.co/gpu-paas/" target="_blank" rel="noopener noreferrer">
-      <div style="display: flex; gap: 5px; overflow-x: auto;">
-        <img src="/assets/images/gpu-paas.jpg" alt="GPU PaaS<sup>TM</sup>" style="width: 150px;">
-        <img src="/assets/images/paas-billing.jpg" alt="PaaS Billing and Chargeback" style="width: 150px;">
+  <div style="width: 300px; position: relative;">
+    <p style="text-align: center;">GPU PaaS<sup>TM</sup> Billing</p>
+    <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 200px;">
+      <div class="slides" style="display: flex; transition: transform 0.5s ease;">
+        <img src="/assets/images/gpu-paas.jpg" alt="GPU PaaS<sup>TM</sup>" style="width: 100%; flex-shrink: 0;">
+        <img src="/assets/images/paas-billing.jpg" alt="PaaS Billing and Chargeback" style="width: 100%; flex-shrink: 0;">
       </div>
-      <p>GPU PaaS<sup>TM</sup> Billing</p>
-    </a>
+      <button onclick="prevSlide(this)" style="position: absolute; left: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❮</button>
+      <button onclick="nextSlide(this)" style="position: absolute; right: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❯</button>
+    </div>
+    <a href="https://rafay.co/gpu-paas/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; margin-top: 5px;">GPU PaaS<sup>TM</sup> Billing</a>
   </div>
 </div>
+
+<script>
+function nextSlide(btn) {
+  const slides = btn.parentElement.querySelector('.slides');
+  const total = slides.children.length;
+  const current = parseInt(slides.getAttribute('data-index') || 0);
+  const next = (current + 1) % total;
+  slides.style.transform = `translateX(-${next * 100}%)`;
+  slides.setAttribute('data-index', next);
+}
+
+function prevSlide(btn) {
+  const slides = btn.parentElement.querySelector('.slides');
+  const total = slides.children.length;
+  const current = parseInt(slides.getAttribute('data-index') || 0);
+  const prev = (current - 1 + total) % total;
+  slides.style.transform = `translateX(-${prev * 100}%)`;
+  slides.setAttribute('data-index', prev);
+}
+</script>
+
 
 ### Technical Advisor
 **Archonet - Bangalore, KA**  
