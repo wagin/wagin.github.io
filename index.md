@@ -56,7 +56,7 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
     </a>
   </div>
   <div style="width: 1000px; position: relative;">
-    <p style="text-align: center;">GPU PaaS<sup>TM</sup> Billing</p>
+    <a href="https://rafay.co/gpu-paas/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; margin-top: 5px;"><p style="text-align: center;">GPU PaaS<sup>TM</sup> Billing</p></a>
     <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 100%;">
       <div class="slides" style="display: flex; transition: transform 0.5s ease;">
         <img src="/assets/images/gpu-paas.jpg" alt="GPU PaaS<sup>TM</sup>" style="width: 100%; flex-shrink: 0;">
@@ -65,7 +65,6 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
       <button onclick="prevSlide(this)" style="position: absolute; left: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❮</button>
       <button onclick="nextSlide(this)" style="position: absolute; right: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❯</button>
     </div>
-    <a href="https://rafay.co/gpu-paas/" target="_blank" rel="noopener noreferrer" style="display: block; text-align: center; margin-top: 5px;">GPU PaaS<sup>TM</sup> Billing</a>
   </div>
 </div>
 
