@@ -48,7 +48,7 @@ Working as Principal engineer for Data Services Platform at Rafay, responsible f
 - Hiring and managing a sleek efficient team of 5 engineers which includes Backend, UI, QA and Operations engineers to design, develop and scale the metrics and Finops platform to meet Customers' expectations
 
 #### Portfolio
-<div style="display: flex; overflow-x: auto; gap: 16px; padding-bottom: 10px;">
+<div style="display: flex; overflow-x: auto; gap: 16px; padding-bottom: 10px; width: 800px;">
   <div style="min-width: 280px; width: 800px; flex-shrink: 0;">
     <a href="https://rafay.co/cloud-cost-optimization" target="_blank" rel="noopener noreferrer"><p>Cloud Cost Management and Optimization</p></a>
     <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 100%;">
