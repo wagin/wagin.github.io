@@ -54,15 +54,13 @@ As the Engineering Manager for the Data Services Platform at Rafay, I am respons
 - Contribution to open-source projects like OpenCost, influxdb-relay, & Paralus for improvements or fix issues.
 
 #### Portfolio
-<div style="display: flex; overflow-x: auto; gap: 16px; padding-bottom: 10px; width: 800px;">
+<div style="display: flex; overflow-x: auto; gap: 16px; padding-bottom: 10px; width: 825px;">
   <div style="min-width: 280px; width: 800px; flex-shrink: 0;">
     <a href="https://rafay.co/cloud-cost-optimization" target="_blank" rel="noopener noreferrer"><p>Cloud Cost Management and Optimization</p></a>
     <div class="carousel" style="position: relative; overflow: hidden; width: 100%; height: 100%;">
       <div class="slides" style="display: flex; transition: transform 0.5s ease;">
         <img src="/assets/images/cost-management.jpg" alt="Cloud Cost Management and Optimization" style="width: 100%; height: auto;">
       </div>
-      <button onclick="prevSlide(this)" style="position: absolute; left: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❮</button>
-      <button onclick="nextSlide(this)" style="position: absolute; right: 5px; top: 40%; background: rgba(0,0,0,0.5); color: white;">❯</button>
     </div>
   </div>
   <div style="min-width: 280px; width: 800px; flex-shrink: 0;">
