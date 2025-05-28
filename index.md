@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Raghavendra Challapali - Principal Software Engineer
+title: Raghavendra Challapali - Principal Engineer & Manager
 ---
 
 # Raghavendra Challapali
-## Principal Software Engineer
+## Principal Engineer & Manager
 
 **Contact Information:**  
 Phone: +91-8892847134  
@@ -17,7 +17,9 @@ LinkedIn: [Raghavendra Challapali](https://www.linkedin.com/in/raghavendra-chall
 CSE, B.Tech & M.Tech (Dual Degree), 2013
 
 ## Objective
-Principal Software Engineer interested in solving day-to-day Business problems with 11+ years' experience in Software Architecture, Design, SDLC, Backend Development and 4+ years in management for building large scale systems. With in-depth knowledge and extensive hands-on experience in Python, Golang and NodeJS based web frameworks, have developed numerous microservices systems.
+Engineering Manager with 12+ years of overall experience driving software architecture, design, and backend development, combined with
+over 3+ years of proven success in engineering management. Skilled in building and leading highly functional engineering teams, scaling large
+systems, and aligning technical strategies with business goals to solve complex enterprise problems.
 
 ## Skills
 
@@ -25,27 +27,31 @@ Principal Software Engineer interested in solving day-to-day Business problems w
 Python, Golang, NodeJS, Bash, Perl, C++
 
 ### SQL/NoSQL Databases
-PostgreSQL, Redis, Cassandra, Prometheus, InfluxDB, Clickhouse
+PostgreSQL, Redis, Cassandra, Prometheus, InfluxDB, Clickhouse, TimeScaleDB, OpenTSDB
 
 ### Web/Backend Frameworks
-Django, Celery, Tornado, RabbitMQ, Nginx, Gunicorn, Flask, HashiCorp Vault, Tastypie, Django Rest Framework, Jinja2, OpenSSL
+Django, Supabase, FlutterFlow, Celery, Tornado, RabbitMQ, Kafka, OpenTelemetery, Nginx, Gunicorn, Flask, HashiCorp Vault, Tastypie, Django Rest Framework, Jinja2, OpenSSL.
 
 ### Development Tools/Environments
 Kubernetes, Docker, AWS+ Boto3, GIT, Ansible, Vagrant, Terraform, OpenTofu, VMWare, VirtualBox, Kibana, HashiCorp Consul, Fabric, SendGrid API
 
 ## Work Experience
 
-### Principal Software Engineer
+### PRINCIPAL ENGINEER & MANAGER
 **Rafay Systems - Bangalore, KA**  
 *December 2021 - Present*
 
-Working as Principal engineer for Data Services Platform at Rafay, responsible for all the metrics dashboards on the product.
+As the Engineering Manager for the Data Services Platform at Rafay, I am responsible for the FinOps and monitoring dashboards, System Alerts, and Events.
 
-- Currently building an Event based Dashboard backed by OLAP database Clickhouse for monitoring Environment Actions
-- Built a Finops product, Cost Management for Kubernetes resources deployed in AKS, EKS, Bare Metal, and Virtual Machines
-- Scaling the metrics platform by evaluating TSDBs (InfluxDB, OpenTSDB, Prometheus) and implementing tenant based sharding
-- Contribution to open-source projects like OpenCost, influxdb-relay, & paralus for improvements or fix issues
-- Hiring and managing a sleek efficient team of 5 engineers which includes Backend, UI, QA and Operations engineers to design, develop and scale the metrics and Finops platform to meet Customers' expectations
+- Hiring and managing a sleek, efficient team of six engineers, including Backend, UI, QA, and DevOps engineers, to design, develop, and scale the Data Services Platform to meet Customers’ expectations.
+- Interact regularly with the Enterprise Leadership, Product, and Solutions Teams to understand and break down customer requirements into Engineering Tasks.
+- Over 3.5 Years, I have efficiently facilitated the timely delivery of numerous products from the ground up:
+  o Billing System for Rafay’s PaaS offering is used by GPU providers, and it integrates with 3rd-party ERP solutions.
+  o FinOps product to optimize the cost of applications running in Kubernetes based on usage patterns.
+  o Event-based Dashboards backed by an OLAP database, Clickhouse, to monitor any environment, such as VMs, BareMetal, Databases, Load Balancers, etc.
+  o Cost Management for Kubernetes resources deployed in AKS, EKS, Bare Metal, and VMs.
+- Scaling the metrics platform by evaluating TSDBs (InfluxDB, OpenTSDB, Prometheus) and implementing tenant-based sharding.
+- Contribution to open-source projects like OpenCost, influxdb-relay, & Paralus for improvements or fix issues.
 
 #### Portfolio
 <div style="display: flex; overflow-x: auto; gap: 16px; padding-bottom: 10px; width: 800px;">
