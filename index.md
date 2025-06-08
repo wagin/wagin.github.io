@@ -46,10 +46,10 @@ As the Engineering Manager for the Data Services Platform at Rafay, I am respons
 - Hiring and managing a sleek, efficient team of six engineers, including Backend, UI, QA, and DevOps engineers, to design, develop, and scale the Data Services Platform to meet Customers’ expectations.
 - Interact regularly with the Enterprise Leadership, Product, and Solutions Teams to understand and break down customer requirements into Engineering Tasks.
 - Over 3.5 Years, I have efficiently facilitated the timely delivery of numerous products from the ground up:
-  o Billing System for Rafay’s PaaS offering is used by GPU providers, and it integrates with 3rd-party ERP solutions.
-  o FinOps product to optimize the cost of applications running in Kubernetes based on usage patterns.
-  o Event-based Dashboards backed by an OLAP database, Clickhouse, to monitor any environment, such as VMs, BareMetal, Databases, Load Balancers, etc.
-  o Cost Management for Kubernetes resources deployed in AKS, EKS, Bare Metal, and VMs.
+  - Billing System for Rafay’s PaaS offering is used by GPU providers, and it integrates with 3rd-party ERP solutions.
+  - FinOps product to optimize the cost of applications running in Kubernetes based on usage patterns.
+  - Event-based Dashboards backed by an OLAP database, Clickhouse, to monitor any environment, such as VMs, BareMetal, Databases, Load Balancers, etc.
+  - Cost Management for Kubernetes resources deployed in AKS, EKS, Bare Metal, and VMs.
 - Scaling the metrics platform by evaluating TSDBs (InfluxDB, OpenTSDB, Prometheus) and implementing tenant-based sharding.
 - Contribution to open-source projects like OpenCost, influxdb-relay, & Paralus for improvements or fix issues.
 
